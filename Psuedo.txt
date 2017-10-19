@@ -1,12 +1,16 @@
 Kaden Kobernat - 10/18/17 - Period 7
 
 How to play BS:
-Step 1: Shuffle deck of cards
-Step 2: Evenly distribute the cards to each player
-Step 3: The player with the ace of spdaes starts the turn by placing the card.
-Step 4: The next player, going clockwise, says the amount of cards they are placing down and the next number going in numerical order.
-Step 5: The player mentioned in step 4, places down any card and any amount of cards equal to or less than four, but they should place down the card with the next number going in numerical order if they have one in their hand.
-Step 6: All other players other than the player mentioned in step 4 have the option to call "BS".
-Step 7: If "BS" is called, and the player mentioned in step 4's statement matches the cards he/she placed down then the first person who had called BS takes all cards in the middle pile and places the cards in his/her hand.
-Step 8: If "BS" is called, and the player mentioned in step 4's statement does not matches the cards he/she placed down then the player mentioned in step 4 takes all the cards in the middle pile and places the cards in his/her hand.
-Step 9: Repeat steps 4-8 until one player gets rid of all their cards. The player that has gotten rid of all of their cards first is the winner.
+Shuffle deck of cards.
+Evenly distribute the cards to each player.
+The player with the ace of spades starts the first turn.
+Each subsequent turn goes to the player in the clockwise direction.
+Each subsequent turn, each player is supposed to place down the subsequent valued card (Ex: Ace, 2, 3, etc.).
+The player places down 1-4 cards all with the same designated value.
+The player states the amount of cards they place down as well as the value of the card they are placing down.
+The player may choose to not place down the card(s) they are supposed to place down.
+Another player has the option to call "BS".
+If "BS" is called and the card(s) placed down is the correct value, the player who calls "BS" takes all cards in the middle pile and the turn ends.
+If "BS" is called and the card(s) placed down is not the correct value, the player who placed the cards takes all cards in the middle pile and the turn ends.
+Else No one calls "BS" and the turn ends.
+The player that has gotten rid of all of their cards first is the winner.
